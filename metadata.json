@@ -1,0 +1,8 @@
+{
+  "name": " THE FIT SHUBHAM",
+  "description": "AI Workout \u0026 Fitness Coach by Shubham Rajpoot with personalized training, nutrition plans, and real-time tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
